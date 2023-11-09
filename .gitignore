@@ -1,2 +1,4 @@
 /venv
 /db.sqlite3
+/tutorial/__pycache__
+/snippets/__pycache__
