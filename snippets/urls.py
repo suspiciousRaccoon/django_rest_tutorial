@@ -21,5 +21,3 @@ urlpatterns = format_suffix_patterns([
          views.UserDetail.as_view(),
          name='user-detail')
 ])
-
-urlpatterns = format_suffix_patterns(urlpatterns)
